@@ -1,0 +1,5 @@
+.env
+__pycache__
+poetry.lock
+rag-test-462509-0b9dd73cde16.json
+rag-test-462509-0b9dd73cde16.json
